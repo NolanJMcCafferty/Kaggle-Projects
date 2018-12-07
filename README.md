@@ -17,3 +17,6 @@ Historical data are provided on 250,000 borrowers and the prize pool is $5,000 (
 ### Link:
 
 https://www.kaggle.com/c/GiveMeSomeCredit
+
+
+I completed this competition as a final project for my computational statistics class. Our team had three other members and we were tasked to complete this competition from several years ago. I focused on the model building process, specifically the Random Forest and XGBoost models. 
